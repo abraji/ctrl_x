@@ -18,6 +18,7 @@ library(readxl)
 library(tidyverse)
 library(DT)
 
+# Exemplo com o download da base completa no dia 24/6/2019
 df_processos <- read_excel("dados/abraji-ctrlx_24_jun_2019.xlsx", sheet=1, skip=3)
 
 # O símbolo "*" não é bem aceito em comandos do R quando está no título de colunas
