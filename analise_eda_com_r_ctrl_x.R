@@ -2,7 +2,8 @@
 # Abraji (https://www.abraji.org.br)
 # Reinaldo Chaves (reinaldo@abraji.org.br)
 # Programa exemplo de como usar a base do Ctrl+X (http://www.ctrlx.org.br) com R
-#
+# Exploratory Data Analysis
+# 
 
 # Marca o diretório de trabalho
 setwd("/Users/abraji/Code/abraji/curso_congresso2019/repo/ferramentas_abraji")
