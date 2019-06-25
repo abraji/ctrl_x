@@ -5,6 +5,6 @@ A busca é feita nos processos do 1º Grau a partir do campo "Nome da parte", um
 
 A intenção era buscar processos de retirada de conteúdo para abastecer o Ctrl+X
 
-Mas o TJ-SP colocou em junho um recaptcha nas buscas, o que inviabilizou as buscas automáticas
+Mas o TJ-SP colocou em junho de 2019 um recaptcha nas buscas, o que inviabilizou as buscas automáticas
 
 Mesmo assim os códigos estão sendo disponibilizados para auxiliar o estudo de web scraping
