@@ -7,4 +7,6 @@ Financiado pelo Google News Initiative, o acesso às informações é online e �
 
 Abrange os processos da Justiça Eleitoral e  processos da Justiça comum.
 
+Em 2017 venceu o Data Journalism Awards.
+
 [Acesse aqui](http://www.ctrlx.org.br)
